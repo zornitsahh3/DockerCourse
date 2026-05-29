@@ -1,0 +1,1 @@
+docker run -it b81dcd76d3f6 -> to run the app in interactive mode
